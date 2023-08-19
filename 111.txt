@@ -1,1 +1,13 @@
 ejemplo
+
+init   crea un reposotirio de forma local inicializa un repo vacio
+
+add  dentor de la carpeta revisa los cambio de archivos nuevos, con git add . toma todos loscambios de achivos 
+
+commit git commit -n "primer comitt de prueba"  
+   
+push
+
+pull
+
+remote
